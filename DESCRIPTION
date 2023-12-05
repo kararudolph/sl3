@@ -107,4 +107,3 @@ VignetteBuilder:
     R.rsp
 Roxygen: list(markdown = TRUE, old_usage = TRUE, r6 = FALSE)
 RoxygenNote: 7.1.2
-RdMacros: Rdpack
